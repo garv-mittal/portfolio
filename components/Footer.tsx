@@ -17,10 +17,10 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Let's <span className="text-purple">Build</span> something great together!
+          Let&apos;s <span className="text-purple">Build</span> something great together!
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          I'm a final-year Computer Science student passionate about building impactful software. I'm actively seeking full-time Software Engineer roles . I'd love to join a team where I can contribute and grow.
+          I&apos;m a final-year Computer Science student passionate about building impactful software. I&apos;m actively seeking full-time Software Engineer roles . I&apos;d love to join a team where I can contribute and grow.
         </p>
         <a 
         href="https://mail.google.com/mail/?view=cm&fs=1&to=mittal04garv@gmail.com"
@@ -35,7 +35,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Adrian Hajdin
+          Copyright © 2025 Garv Mittal
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">

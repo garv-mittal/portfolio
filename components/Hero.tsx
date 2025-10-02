@@ -58,7 +58,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I'm Garv, a Computer Science student passionate about creating intuitive and robust web experiences.
+            I&apos;m Garv, a Computer Science student passionate about creating intuitive and robust web experiences.
           </p>
 
           <a href="#projects">
